@@ -1,0 +1,14 @@
+﻿  dllmain.cpp
+D:\Programmieren\EWSF\EWSF\dllmain.cpp(9,50): error C2485: 'naked': unrecognized extended attribute
+D:\Programmieren\EWSF\EWSF\dllmain.cpp(11,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+D:\Programmieren\EWSF\EWSF\dllmain.cpp(11,8): error C2065: 'JMP': undeclared identifier
+D:\Programmieren\EWSF\EWSF\dllmain.cpp(11,12): error C2146: syntax error: missing ';' before identifier 'oShowNostaleSplash'
+D:\Programmieren\EWSF\EWSF\dllmain.cpp(14,50): error C2485: 'naked': unrecognized extended attribute
+D:\Programmieren\EWSF\EWSF\dllmain.cpp(16,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+D:\Programmieren\EWSF\EWSF\dllmain.cpp(16,8): error C2065: 'JMP': undeclared identifier
+D:\Programmieren\EWSF\EWSF\dllmain.cpp(16,12): error C2146: syntax error: missing ';' before identifier 'oFreeNostaleSplash'
+  FPSBreaker.cpp
+  memscan.cpp
+D:\Programmieren\EWSF\EWSF\memscan.cpp(7,40): warning C4267: 'initializing': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\Programmieren\EWSF\EWSF\memscan.cpp(7,40): warning C4267: 'initializing': conversion from 'size_t' to 'const DWORD', possible loss of data
+  Generating Code...
